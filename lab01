@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "LAB1",
+      "name": "Bản sao của LAB1",
       "provenance": [],
       "collapsed_sections": [],
       "include_colab_link": true
@@ -63,7 +63,7 @@
         "from google.colab import drive\n",
         "drive.mount('/drive')"
       ],
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -90,7 +90,7 @@
         "dulieuxettuyendaihoc = pd.read_csv('https://raw.githubusercontent.com/tuongvi197ct22673/phantichdulieu/main/dulieuxettuyendaihoc.csv') # đọc dữ liệu trước \n",
         "print(dulieuxettuyendaihoc)"
       ],
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "error",
